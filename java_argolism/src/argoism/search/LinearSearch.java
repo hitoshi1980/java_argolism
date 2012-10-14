@@ -1,7 +1,7 @@
-package arglism.search;
+package argoism.search;
 
 public class LinearSearch {
-	
+
 	/** 発見できない場合 **/
 	private static final int NOT_FOUND = -1;
 
